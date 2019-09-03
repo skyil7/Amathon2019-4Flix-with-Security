@@ -30,3 +30,6 @@
 
 ## Demo Site
 - [4Flix](http://4flix-env.ryhmz4dua3.ap-northeast-2.elasticbeanstalk.com) => AWS EB 배포
+
+## Result
+![우리팀 짱이에요!](./수고하셨습니다!.jpg)
